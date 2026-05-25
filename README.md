@@ -1,9 +1,10 @@
 Hey there, I’m @Albaka28
-    (the name is not a typo its a combination combining the animal Alpaka and the japanese word Baka -> cuz i can be a lil silly sometimes ^^")
-  
-    - Currently learning/going to be a programmer/computer Scientist
+    (not a typo its a combination combining the animal Alpaka and the japanese word Baka -> cuz i can be a lil silly sometimes ^^")
+
+    -I am a qualified Software Developer
+    - Currently im study at the Univerity of Brunswick (Computer Scientist), to deepen my knowlege and getting a wider view. 
     - im interessted in Networking supported by Software (if i ever start a project it will be something in that direction ;P )
-    - I took a short dive in Python, C, Cpp ; and a deeper dive into C# im planning to try rust in the near future
+    - I took a short dive in Python, C, Cpp ; and a deeper dive into C# but currently im in love with Rust lang.
 
 
 
